@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mimi, plataforma de videos
 
 Aplicación SPA modular para la actividad de Cloud. En desarrollo usa React + Vite, FastAPI, SQLAlchemy, SQLite y almacenamiento local de archivos. La configuración permite cambiar a PostgreSQL y Amazon S3 sin incluir credenciales en el código.
@@ -75,3 +76,6 @@ backend/app/             API FastAPI, configuración, modelos y rutas
 backend/app/storage.py   Adaptador para disco local y S3
 requirements.txt         Dependencias Python
 ```
+=======
+# Youtube-Emilia_Armas
+>>>>>>> 37800adc0626aa9952448bedff937e8ce7660626
